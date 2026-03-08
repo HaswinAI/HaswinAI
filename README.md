@@ -11,7 +11,7 @@
 * 🤖 Passionate about **Artificial Intelligence, Machine Learning & Generative AI**
 * 🧠 Exploring **LLMs, LangChain, AI Agents, and Deep Learning**
 * 🏆 **Winner – Aviskar National Level Conference 2025**
-* 🥇 **Top 10 – Ideathon 2023 (50+ teams)**
+* 🥇 **Top 10 – Ideathon 2023**
 * 🏆 **Intra College Winner – Smart India Hackathon 2025**
 * 📄 Presented papers at **ICONIC International Conference 2024 & 2025**
 * 🚀 Building AI projects that solve real-world problems
@@ -50,9 +50,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HaswinAI&show_icons=true&theme=dracula&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=haswinai&show_icons=true&theme=dracula&hide_border=true" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaswinAI&layout=compact&theme=dracula&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haswinai&layout=compact&theme=dracula&hide_border=true" height="160"/>
 
 </div>
 
