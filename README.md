@@ -44,17 +44,6 @@
 
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=haswinai&show_icons=true&theme=dracula&hide_border=true" height="160"/>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HaswinAI&show_icons=true&theme=dracula"/>
-
-</div>
 
 ---
 
